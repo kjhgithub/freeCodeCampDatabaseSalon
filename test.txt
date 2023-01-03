@@ -1,3 +1,4 @@
+ #git push --set-upstream https://github.com/kjhgithub/freeCodeCampDatabaseSalon master
  // Here are two examples of the output of a passing script:
 
 ~~~~~ MY SALON ~~~~~
